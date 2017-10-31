@@ -70,7 +70,7 @@
     }
   },
   "build": {
-    "appId": "com.wulkano.kap",
+    "appId": "com.wulkano.kap-beta",
     "files": [
       "**/*",
       "dist",
